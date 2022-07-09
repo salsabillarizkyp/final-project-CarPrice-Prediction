@@ -13,9 +13,9 @@ Problem: regression
 
 Final Model: Random Forest Regression
 
-Link Repositori: https://github.com/salsabillarizkyp/final-project-kelompok-07-Rachmadio-Noval-L-.git
+Link Repositori: https://github.com/salsabillarizkyp/final-project-kelompok-07-Rachmadio-Noval-L-
 
-Link PPT: https://docs.google.com/presentation/d/1Jovax0E-Fp06iLU7MnPaJTe6-MdzWOwCbhD2Oj-DUrs/edit#slide=id.p5
+Link PPT: https://docs.google.com/presentation/d/1Jovax0E-Fp06iLU7MnPaJTe6-MdzWOwCbhD2Oj-DUrs/edit?usp=sharing
 
 
 
